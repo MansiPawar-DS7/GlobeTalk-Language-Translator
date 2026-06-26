@@ -1,4 +1,0 @@
-streamlit
-streamlit-webrtc
-deep-translator
-gtts
